@@ -214,4 +214,4 @@ Scilab is offered as a full free version with all features and updates included.
 Unlock the potential of your mathematical computations today—download Scilab for free and elevate your scientific projects!
 
 ---
-**Last updated:** 2026-10-10 00:36:05 UTC
+**Last updated:** 2026-10-10 06:49:34 UTC
